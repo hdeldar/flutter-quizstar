@@ -1,6 +1,7 @@
 # Quizstar !
 
   
+This project update and solve some bugs from [flutter-quizstar](https://github.com/desi-programmer/flutter-quizstar)
 
 This is a **Complete Quiz App in FLUTTER** using a lot of features such as
 
